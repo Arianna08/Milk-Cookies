@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Charmonman");
+*{
+  margin:0px;
+  padding:0px;
+}
+
+h1 {
+  color: #00b1ff;
+  font-size: 45px;
+}
+h2 {
+  color: #00b1ff;
+  font-size: 30px;
+}
+body {
+  background: pink;
+  font-family: "Charmonman", cursive;
+}
+img {
+  width: 400px;
+}
+.header {
+  background: #dc96ff;
+}
+
+.container {
+  background: #dc96ff;
+  width: 500px;
+  length: 500px;
+}
+
+.Recipes {
+  text-align: center;
+}
